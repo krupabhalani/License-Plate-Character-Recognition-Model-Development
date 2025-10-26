@@ -1,6 +1,6 @@
 # License-Plate-Character-Recognition-Model-Development
 
-Description: Developed a deep learning model using a Convolutional Recurrent Neural Network (CRNN) architecture to perform character recognition on vehicle license plate images. Gained hands-on experience across the complete machine learning workflow — from data preparation to model evaluation.
+Description: Developed a deep learning model using a Convolutional Recurrent Neural Network (CRNN) architecture to perform character recognition on vehicle license plate images. Gained hands-on experience across the complete machine learning workflow from data preparation to model evaluation.
 
 Preprocessed and transformed image-text data through resizing, normalization, and alphanumeric encoding for model readiness.
 
